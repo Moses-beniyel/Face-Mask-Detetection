@@ -47,13 +47,13 @@ Face-Mask-Detection/
 
 ⚙️ Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/Face-Mask-Detection.git
+git clone https://github.com/Moses-beniyel/Face-Mask-Detection.git
 cd Face-Mask-Detection
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-3️⃣ Train the model (optional)
+3️⃣ Train the model 
 python train_mask_detector.py
 
 4️⃣ Run real-time detection
@@ -72,4 +72,5 @@ The trained CNN model classifies the face as “Mask” or “No Mask.”
 
 Visualization:
 A bounding box and label (Mask / No Mask) are displayed in real-time.
+
 
